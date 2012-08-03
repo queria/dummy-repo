@@ -1,0 +1,3 @@
+
+ALTER TABLE dbo.MEMB_INFO ALTER COLUMN memb___id varchar(10)COLLATE Chinese_PRC_CI_AS NOT NULL;
+
